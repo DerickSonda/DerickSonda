@@ -21,25 +21,25 @@
 
 <br/>
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
 ```yaml
 nome:       Derick
 função:     Estudante & Dev Web em formação
 escola:     IFRS – Informática para Internet
-foco_atual: 🎯 PHP / Laravel + primeiros passos em React
+foco_atual:  PHP / Laravel + primeiros passos em React
 stack:      "Back-end web, com HTML/CSS/JS na frente"
-status:     Focusing 🔭
+status:     Focusing 
 ```
 
-- 🎓 Estudando **Informática para Internet** e botando a mão na massa em projetos web
-- 🌱 Aprofundando em **Laravel** e começando com **React**
-- 🤝 Curto trabalhar em projetos de faculdade e testar coisa nova
-- 🎮 Quando não estou codando, provavelmente estou jogando alguma coisa com a galera
+-  Estudando **Informática para Internet** e botando a mão na massa em projetos web
+-  Aprofundando em **Laravel** e começando com **React**
+-  Curto trabalhar em projetos de faculdade e testar coisa nova
+-  Quando não estou codando, provavelmente estou jogando alguma coisa com a galera
 
 <br/>
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -67,7 +67,7 @@ status:     Focusing 🔭
 
 <br/>
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
@@ -82,7 +82,7 @@ status:     Focusing 🔭
 
 <br/>
 
-## 🐍 Contribuições em ação
+##  Contribuições em ação
 
 <div align="center">
 
@@ -92,13 +92,12 @@ status:     Focusing 🔭
   <img alt="Snake comendo as contribuições" src="https://raw.githubusercontent.com/DerickSonda/DerickSonda/output/github-snake.svg" />
 </picture>
 
-<sub>🐍 A cobrinha come os quadradinhos das minhas contribuições — atualiza sozinha a cada 12h</sub>
 
 </div>
 
 <br/>
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 <div align="center">
 
@@ -123,7 +122,7 @@ status:     Focusing 🔭
 <br/>
 
 <details>
-<summary><b>📈 Ver mais atividade (clique para expandir)</b></summary>
+<summary><b> Ver mais atividade (clique para expandir)</b></summary>
 <br/>
 <div align="center">
 

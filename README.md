@@ -14,9 +14,6 @@
 <a href="https://github.com/DerickSonda?tab=repositories">
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDerickSonda&query=%24.public_repos&label=Reposit%C3%B3rios&style=for-the-badge&color=a78bfa&logo=github&logoColor=white" alt="repos" />
 </a>
-<a href="https://www.instagram.com/derick_.sonda/">
-<img src="https://img.shields.io/badge/@Derick__.Sonda-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
 
 </div>
 

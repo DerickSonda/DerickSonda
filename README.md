@@ -32,6 +32,7 @@ status: Focusing
 
 - Técnico em **Informática para Internet** no **IFRS**
 - Desenvolvo principalmente com **PHP** e **Laravel**, e estou estudando **React**
+- Também trabalho com **IA**: automações, agentes e integração de LLMs em sistemas web
 - Curto mais a parte de back-end: regra de negócio, banco de dados e API
 - A maioria dos repositórios aqui são trabalhos e projetos do curso
 

@@ -30,10 +30,10 @@ stack: "Back-end web, com HTML/CSS/JS na frente"
 status: Focusing
 ```
 
-- Estudando **Informática para Internet** e botando a mão na massa em projetos web
-- Aprofundando em **Laravel** e começando com **React**
-- Curto trabalhar em projetos de faculdade e testar coisa nova
-- Quando não estou codando, provavelmente estou jogando alguma coisa com a galera
+- Técnico em **Informática para Internet** no **IFRS**
+- Desenvolvo principalmente com **PHP** e **Laravel**, e estou estudando **React**
+- Curto mais a parte de back-end: regra de negócio, banco de dados e API
+- A maioria dos repositórios aqui são trabalhos e projetos do curso
 
 <br/>
 

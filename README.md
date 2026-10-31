@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=Derick&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Dev%20Web%20em%20forma%C3%A7%C3%A3o%20%E2%80%A2%20Estudante%20de%20Inform%C3%A1tica%20para%20Internet&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Derick&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Dev%20Web%20em%20formacao&descAlignY=55&descSize=20" alt="header"/>
 
 <a href="https://github.com/DerickSonda">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=F472B6&center=true&vCenter=true&width=620&height=50&lines=Estudante+de+Inform%C3%A1tica+para+Internet;Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;PHP+%7C+Laravel+%7C+React+%7C+JavaScript;Sempre+aprendendo+algo+novo" alt="Typing SVG" />

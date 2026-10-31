@@ -27,7 +27,7 @@ função: Estudante & Dev Web em formação
 escola: IFRS – Informática para Internet
 foco_atual: PHP / Laravel + primeiros passos em React
 stack: "Back-end web, com HTML/CSS/JS na frente"
-status: Focusing
+status: Sempre aprendendo
 ```
 
 - Técnico em **Informática para Internet** no **IFRS**
@@ -71,8 +71,8 @@ status: Focusing
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DerickSonda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa&locale=pt-br" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickSonda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&locale=pt-br&langs_count=6" alt="top langs" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=DerickSonda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa&locale=pt-br" alt="stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DerickSonda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&locale=pt-br&langs_count=6" alt="top langs" />
 
 </div>
 
@@ -97,17 +97,17 @@ status: Focusing
 <div align="center">
 
 <a href="https://github.com/DerickSonda/Trabalho.Programacao-Web">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DerickSonda&repo=Trabalho.Programacao-Web&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa" alt="Trabalho.Programacao-Web" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DerickSonda&repo=Trabalho.Programacao-Web&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa" alt="Trabalho.Programacao-Web" />
 </a>
 <a href="https://github.com/DerickSonda/Pw3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DerickSonda&repo=Pw3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa" alt="Pw3" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DerickSonda&repo=Pw3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa" alt="Pw3" />
 </a>
 
 <a href="https://github.com/DerickSonda/react-tuto">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DerickSonda&repo=react-tuto&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa" alt="react-tuto" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DerickSonda&repo=react-tuto&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa" alt="react-tuto" />
 </a>
 <a href="https://github.com/DerickSonda/Rastreador">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DerickSonda&repo=Rastreador&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa" alt="Rastreador" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DerickSonda&repo=Rastreador&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa" alt="Rastreador" />
 </a>
 
 </div>
@@ -122,7 +122,7 @@ status: Focusing
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 <a href="https://www.instagram.com/derick_.sonda/">
-<img src="https://img.shields.io/badge/@Derick__.Sonda-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+<img src="https://img.shields.io/badge/@derick__.sonda-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 <!-- Troque/adicione seus links abaixo (é só copiar o modelo de cima):
 <a href="SEU_LINK_LINKEDIN">
@@ -138,5 +138,5 @@ status: Focusing
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer" alt="footer"/>
 </div>
